@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ARYANK-08&show_icons=true&theme=radical" alt="aryank-08" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank-08&show_icons=true&locale=en&layout=compact" alt="aryank-08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank-08&show_icons=true&locale=en&layout=compact&theme=radical" alt="aryank-08" /></p>
