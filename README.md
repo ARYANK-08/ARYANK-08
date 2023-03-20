@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ARYANK-08&show_icons=true&theme=radical" alt="aryank-08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryank-08&show_icons=true&locale=en" alt="aryank-08"/></p>
 
 
