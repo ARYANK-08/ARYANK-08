@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aryan Kyatham</h1>
 <h3 align="center">I am a Student, Coder and a Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif"
+     
 - 👯 I’m looking to collaborate on **Python,OpenCV**
+     
 - 📫 How to reach me [kyathamaryan@gmail.com](kyathamaryan@gmail.com)
+     
 - ⚡ Fun fact **I love Gaming and Photography.**
+     
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
