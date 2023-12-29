@@ -9,7 +9,7 @@
      
 - ⚡ Fun fact **I love Gaming and Photography.**
      
-- ⚡Checkout my Recent Project : https://www.linkedin.com/pulse/revolutionizing-billboard-analytics-opencv-aryan-kyatham/ 
+- ⚡Checkout my Recent Project : https://www.linkedin.com/pulse/deploy-django-app-aws-using-ec2-rds-s3-aryan-kyatham-gdp7f%3FtrackingId=K61PruxPRc%252BNqhqImv5VRw%253D%253D/?trackingId=K61PruxPRc%2BNqhqImv5VRw%3D%3D
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
