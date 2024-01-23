@@ -3,12 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryank-08&label=Profile%20views&color=0e75b6&style=flat" alt="aryank-08" /> </p>
 
-- 👯 I’m looking to collaborate on **Python,OpenCV,Flask,Django**
+- 🧑🏽‍💻 I love writing code in Python :)
      
 - 📫 How to reach me [kyathamaryan@gmail.com](kyathamaryan@gmail.com)
-     
-- ⚡ Fun fact **I love Gaming and Photography.**
-     
+          
 - ⚡Checkout my Recent Project : https://shorturl.at/S2789
 
 <h3 align="left">Connect with me :</h3>
