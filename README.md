@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Kyatham</h1>
-<h3 align="center">I am a Student, Coder and a Python Enthusiast</h3>
+<h3 align="center">I build products which creates impact and hence imma impact kid</h3>
 
 
 - 🧑🏽‍💻 I love writing code in Python :)
