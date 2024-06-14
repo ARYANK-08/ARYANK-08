@@ -7,7 +7,7 @@
      
 - 📫 How to reach me [kyathamaryan@gmail.com](kyathamaryan@gmail.com)
           
-- ⚡Checkout my Recent Project : https://shorturl.at/S2789
+- ⚡Checkout my Recent Project : [https://shorturl.at/S2789](https://shorturl.at/ksCYw)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
