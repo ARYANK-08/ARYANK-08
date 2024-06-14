@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aryan Kyatham</h1>
 <h3 align="center">I build products which creates impact and hence imma impact kid</h3>
 
 
