@@ -1,4 +1,4 @@
-<h3 align="center">I build products which creates impact and hence imma impact kid</h3>
+<h3 align="center">I build software which creates impact and hence imma impact kid</h3>
 
 - ⚡Checkout my Recent Project : [https://shorturl.at/S2789](https://shorturl.at/ksCYw)
     
