@@ -4,7 +4,7 @@
     
 - 📫 How to reach me [kyathamaryan@gmail.com](kyathamaryan@gmail.com) / https://www.linkedin.com/in/aryankyatham/
 
-- 🧑🏽‍💻 I love writing code in Python :)
+- 🧑🏽‍💻 Tech Stack : Python, Django, AWS :)
 
           
 
